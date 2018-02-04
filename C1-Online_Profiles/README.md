@@ -9,8 +9,11 @@ For this assignment you will need to upload your resume, and provide links to yo
 ### GitHub
 Provide a link to your GitHub account here.
 
+https://github.com/miafrank
+
 ### LinkedIn
 Provide a link to your LinkedIn account here.
+https://www.linkedin.com/in/mia-frank-b0b2b5127/
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo.
