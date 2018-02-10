@@ -28,14 +28,14 @@ to quantify data over time.
 ### Technologies
 Include Technologies here
 
-*Vaadin
-*Google Fit REST API
-*SpringBoot
+*Gradle
+*Spring
+*Bootstrap
 *MySQL
 
 ### What I'll Have to Learn
 Include what you will need to learn here
 
-I will have to learn how to incorporate Google's Fit API, Bootstrap and Vaadin into
-my project. I also want to possibly enable images or videos of exercises that users can use
+I will have to learn how to Bootstrap, Spring and Gradle in my project. 
+I also want to possibly enable images or videos of exercises that users can use
 to create a workout plan.
